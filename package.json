@@ -1,0 +1,36 @@
+{
+	"name": "dark-plus-duratar-theme",
+	"displayName": "Dark+ Durotar Theme",
+	"description": "The VS Code Dark+ theme with a few modifications",
+	"icon": "icon.png",
+	"version": "1.0.0-pre",
+	"publisher": "hoisel",
+	"keywords": [
+		"dark+",
+		"theme"
+	],
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.5.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Dark+ Durotar",
+				"uiTheme": "vs-dark",
+				"path": "./themes/dark-plus-durotar.tmTheme"
+			}
+		]
+	},
+	"bugs": {
+		"url": "https://github.com/hoisel/dark-plus-duratar-theme/issues"
+	},
+	"homepage": "https://github.com/hoisel/dark-plus-duratar-theme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/hoisel/dark-plus-duratar-theme.git"
+	}
+}
