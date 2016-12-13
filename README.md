@@ -1,20 +1,17 @@
-# dark-plus-durotar-theme
-The VS Code Dark+ theme with a few modifications for best fit with operator mono font.
-
 ## Disclaimer
 **Color theme only. [Font](http://www.typography.com/blog/introducing-operator) not included**
 
 ## Screenshots
 
 ### JavaScript
-![](https://raw.githubusercontent.com/hoisel/dark-plus-duratar-theme/master/screenshots/es2015.png)
+![](https://raw.githubusercontent.com/hoisel/dark-plus-durotar-theme/master/screenshots/es2015.png)
 
 ### TypeScript
-![](https://raw.githubusercontent.com/hoisel/dark-plus-duratar-theme/master/screenshots/ts.png)
+![](https://raw.githubusercontent.com/hoisel/dark-plus-durotar-theme/master/screenshots/ts.png)
 
 
 ### html
-![](https://raw.githubusercontent.com/hoisel/dark-plus-duratar-theme/master/screenshots/html.png)
+![](https://raw.githubusercontent.com/hoisel/dark-plus-durotar-theme/master/screenshots/html.png)
 
 
 ## Installing
