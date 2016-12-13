@@ -1,5 +1,5 @@
 {
-  "name": "dark-plus-duratar-theme",
+  "name": "dark-plus-durotar-theme",
   "displayName": "Dark+ Durotar Theme",
   "description": "The VS Code Dark+ theme with a few modifications",
   "icon": "icon.png",
@@ -26,11 +26,11 @@
     ]
   },
   "bugs": {
-    "url": "https://github.com/hoisel/dark-plus-duratar-theme/issues"
+    "url": "https://github.com/hoisel/dark-plus-durotar-theme/issues"
   },
-  "homepage": "https://github.com/hoisel/dark-plus-duratar-theme",
+  "homepage": "https://github.com/hoisel/dark-plus-durotar-theme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hoisel/dark-plus-duratar-theme.git"
+    "url": "https://github.com/hoisel/dark-plus-durotar-theme.git"
   }
 }
