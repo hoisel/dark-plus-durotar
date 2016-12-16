@@ -670,7 +670,7 @@
       <key>name</key>
       <string/>
       <key>scope</key>
-      <string>support.class.ts</string>
+      <string>support.class</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -683,7 +683,7 @@
       <key>name</key>
       <string/>
       <key>scope</key>
-      <string>support.type.ts</string>
+      <string>support.type</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
