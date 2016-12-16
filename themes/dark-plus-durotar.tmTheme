@@ -6,6 +6,16 @@
   <string>Dark++</string>
   <key>settings</key>
   <array>
+
+    <!--global settings-->
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#1e1e1e</string>
+			</dict>
+		</dict>
+
     <dict>
       <key>name</key>
       <string/>
@@ -122,12 +132,26 @@
       <key>name</key>
       <string/>
       <key>scope</key>
+      <string>entity.other.attribute-name.xml</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <!-- changed for better JSX attribute-name vs. JSX attribute-value color contrast -->
+        <string>#9CDCFE</string>
+         <key>fontStyle</key>
+        <string>italic</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string/>
+      <key>scope</key>
       <string>entity.other.attribute-name.html</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
         <!-- changed for better JSX attribute-name vs. JSX attribute-value color contrast -->
-        <string>#DCDCAA</string>
+        <string>#9CDCFE</string>
          <key>fontStyle</key>
         <string>italic</string>
       </dict>
@@ -646,7 +670,7 @@
       <key>name</key>
       <string/>
       <key>scope</key>
-      <string>support.class.ts</string>
+      <string>support.class</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
@@ -659,7 +683,7 @@
       <key>name</key>
       <string/>
       <key>scope</key>
-      <string>support.type.ts</string>
+      <string>support.type</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
