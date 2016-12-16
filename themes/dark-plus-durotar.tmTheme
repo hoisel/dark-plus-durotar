@@ -6,6 +6,16 @@
   <string>Dark++</string>
   <key>settings</key>
   <array>
+
+    <!--global settings-->
+		<dict>
+			<key>settings</key>
+    <dict>
+				<key>background</key>
+				<string>#1e1e1e</string>
+			</dict>
+		</dict>
+
     <dict>
       <key>name</key>
       <string/>
